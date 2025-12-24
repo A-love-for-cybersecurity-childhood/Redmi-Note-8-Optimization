@@ -31,7 +31,7 @@ To prevent Bootloops caused by faulty modules, I use a specific recovery: **Oran
 
 ## Conclusion and Final Rating: 8.5/10
 Project Infinity X is currently the best for ginkgo. It just needs better support for the Arabic language. For me, this project wasn't just about changing a ROM; it was about understanding how the Android system communicates with the hardware.
---8-edmi-Note-8-edmOptimizationimizatio/Redmi-Note-8-Optimization<img width="1080" height="2340" alt="1000074694" src="https://github.com/user-attachments/assets/b18d04c2-9358-4179-93e4-610ddb40e4a1" />
+<img width="1080" height="2340" alt="1000074694" src="https://github.com/user-attachments/assets/b18d04c2-9358-4179-93e4-610ddb40e4a1" />
 <img width="1080" height="2340" alt="1000074688" src="https://github.com/user-attachments/assets/c1e6a2a4-2cb5-43ed-b2e9-b1f6539b7d22" />
 <img width="1080" height="2340" alt="1000074687" src="https://github.com/user-attachments/assets/cd555461-08cd-412a-bf40-9742956a7470" />
 <img width="1080" height="2340" alt="1000074686" src="https://github.com/user-attachments/assets/434e3a9c-ee00-43da-87b2-e6787a466c46" />
